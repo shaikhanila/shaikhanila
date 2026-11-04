@@ -49,10 +49,11 @@ flowchart LR
 
 | # | Case | The question | Toolkit | Link |
 |---|------|--------------|---------|------|
-| 01 | **Paisabazaar Dashboard** | What does the banking data look like at a glance? | Power BI · DAX | [Open](https://github.com/shaikhanila/powerbi_project) |
-| 02 | **Banking Fraud Analysis** | Which patterns hint at fraud? | Python · Pandas · Seaborn | [Open](https://github.com/shaikhanila/EDA_Project) |
-| 03 | **Bank Churn Prediction** | Which customers are likely to leave? | Python · ML | [Open](https://github.com/shaikhanila/bank-churn-prediction) |
-| 04 | **Cohort & Retention (E-commerce)** | Do customers come back, and which products drive sales? | SQL · Python | [Open](https://github.com/shaikhanila/sql-cohort-retention-analysis) |
+| 01 | **McKinsey AI Market Research & Strategy Engine** | How can AI automate market research and generate evidence-backed strategic insights? | Python · GenAI · Multi-Agent Systems · FastAPI | [Open](https://github.com/shaikhanila/McKinsey-AI-Market-Research-Strategy-Engine) |
+| 02 | **Paisabazaar Dashboard** | What does the banking data look like at a glance? | Power BI · DAX | [Open](https://github.com/shaikhanila/powerbi_project) |
+| 03 | **Banking Fraud Analysis** | Which patterns hint at fraud? | Python · Pandas · Seaborn | [Open](https://github.com/shaikhanila/EDA_Project) |
+| 04 | **Bank Churn Prediction** | Which customers are likely to leave? | Python · ML | [Open](https://github.com/shaikhanila/bank-churn-prediction) |
+| 05 | **Cohort & Retention (E-commerce)** | Do customers come back, and which products drive sales? | SQL · Python | [Open](https://github.com/shaikhanila/sql-cohort-retention-analysis) |
 
 <details>
 <summary><b>🏆 Key finding from each case (fill these in, recruiters love numbers)</b></summary>
