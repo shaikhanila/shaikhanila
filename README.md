@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Anila Shaikh, Data Analyst" width="100%" />
+  <img src="./header.svg" alt="Anila Shaikh, Data Analyst" width="100%" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ flowchart LR
 ### 🧰 Toolbox
 
 <p align="center">
-  <img src="./assets/skills.svg" alt="Skill levels" width="85%" />
+  <img src="./skills.svg" alt="Skill levels" width="85%" />
 </p>
 
 <p align="center">
